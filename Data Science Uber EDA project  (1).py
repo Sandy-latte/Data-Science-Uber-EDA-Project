@@ -278,33 +278,3 @@ uber3
 plt.hist(uber3['No Cars Available Peak Hour'], bins=10, edgecolor='black', color = 'purple')  
 plt.show()
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
